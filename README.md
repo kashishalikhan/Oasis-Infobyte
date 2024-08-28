@@ -9,6 +9,6 @@
 
 4. [Basic Weather App](https://github.com/kashishalikhan/Oasis-Infobyte/tree/main/Osais%20Infobyte/Basic%20Weather%20App)
 
-5. Chat Application
+5. **Chat Application**
     -[Server](https://github.com/kashishalikhan/Oasis-Infobyte/blob/main/Osais%20Infobyte/Chat%20Application/Server.py)
     -[Client](https://github.com/kashishalikhan/Oasis-Infobyte/blob/main/Osais%20Infobyte/Chat%20Application/Client.py)
