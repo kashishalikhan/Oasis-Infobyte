@@ -1,7 +1,7 @@
 # Oasis-Infobyte
  
-# List of Assigned Tasks in Python Internship
-1. Voice Assistant
+## List of Assigned Tasks in Python Internship
+1. [Voice Assistant](https://github.com/kashishalikhan/Oasis-Infobyte/tree/main/Osais%20Infobyte/Voice%20Assistant)
 
 2. BMI Calculator
 
